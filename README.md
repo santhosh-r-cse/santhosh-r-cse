@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**santhosh-r-cse/santhosh-r-cse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Santhosh R 👋
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 🎓 Computer Science & Engineering student passionate about programming and problem-solving.
+- 💡 Currently learning Python, Java, Git, and Data Structures & Algorithms.
+- 🎯 Looking to collaborate on open-source projects and software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Languages:** Python, Java, C, C++
+- **Web Development:** HTML, CSS, JavaScript
+- **Tools & Platforms:** Git, GitHub
+
+### 📫 Connect with Me
+- **LinkedIn:** [Santhosh R](https://www.linkedin.com/in/santhosh-r-zzz)
+- **Portfolio:** [My Personal Portfolio](https://santhosh-r-or-personal-portfolio--sandylive0011s.replit.app)
+```[cite: 1, 2]
