@@ -7,7 +7,7 @@
 - 🎯 Looking to collaborate on open-source projects and software development.
 
 ### 🛠️ Tech Stack
-- **Languages:** Python, Java, C, C++
+- **Languages:** Python, C, C++
 - **Web Development:** HTML, CSS, JavaScript
 - **Tools & Platforms:** Git, GitHub
 
